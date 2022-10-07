@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">SevenHills Institute  --> A Metropolitan University Company</h1>
+<h1 align="center">SevenHills Institute  --> It is one of the best institue for learners</h1>
 <h1 align="center"> Welcome to Seven Hills institute.......We have a demo on DevOps Engineer Degree with Linux and AWS  on Saturday october 8, 2022 at 10am iST for our new batch. 
 	seven hills insttute is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
 	Our anointed and extensive teaching approach takes our students with or without any IT Background to become Subject Matter Expect in IT, and DevOps automation.
